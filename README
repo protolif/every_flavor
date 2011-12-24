@@ -2,6 +2,10 @@ Every Flavor Generator
 
 During a d20 game, another player asked me what my potion tasted like. I immediately thought of Bertie Bott's Every Flavor Beans, from JK Rowling's Harry Potter series, and went to the internet to find such a generator of flavors. To my surprise, there was none, so I wrote this.
 
+It's pretty simple to use.
+
+EveryFlavor::Flavor.generate outputs a flavor string.
+
 /*
  * ----------------------------------------------------------------------------
  * "THE BEER-WARE LICENSE" (Revision 42):
